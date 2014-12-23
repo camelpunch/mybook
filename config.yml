@@ -1,0 +1,12 @@
+book_repo: camelpunch/mybook
+
+sections:
+  - repository:
+      name: camelpunch/mybook
+    directory: part1
+  - repository:
+      name: camelpunch/mybook
+    directory: part2
+
+public_host: mybook.cfapps.io
+
