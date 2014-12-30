@@ -1,4 +1,5 @@
 book_repo: camelpunch/mybook
+cred_repo: pivotal-cf-experimental/mybook_credentials
 
 sections:
   - repository:
