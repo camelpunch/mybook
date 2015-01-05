@@ -1,7 +1,5 @@
-GIT
-  remote: git://github.com/cloudfoundry-incubator/bookbinder.git
-  revision: 0c325987116a58f3b96bb6ad5605214ee2ab9daa
-  branch: develop
+PATH
+  remote: ../bookbinder
   specs:
     bookbinder (0.2.4)
       anemone
