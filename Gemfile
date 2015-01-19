@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "bookbinder", path: "../bookbinder"
+gem "bookbindery", path: "../bookbinder"
