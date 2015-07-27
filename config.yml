@@ -1,13 +1,15 @@
 book_repo: camelpunch/mybook
 cred_repo: pivotal-cf-experimental/mybook_credentials
 
-sections:
-  - repository:
-      name: camelpunch/mybook_parts
-    directory: part1
-  - repository:
-      name: camelpunch/mybook_parts
-    directory: part2
+dita_sections:
+- repository:
+    name: project-geode/docs
+  directory: docs
+  ditamap_location: Geode.ditamap
+- repository:
+    name: project-geode/docs
+  ref: gh-pages
+  directory: docs2
 
 public_host: mybook.cfapps.io
 
